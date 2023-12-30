@@ -1,2 +1,2 @@
 # TGW_JP
-textgeneration_transrate
+textgenerationを日本語化したファイルの置き場
